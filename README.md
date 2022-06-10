@@ -2,10 +2,6 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap" rel="stylesheet">
 
-
-# [![aditya kumar header](https://raw.githubusercontent.com/AdityaKumar28/AdityaKumar28/asset/jpeg/banner.jpeg)](https://github.com/AdityaKumar28)
-
-
 <div style=" font-size: medium; font-family: 'Kaushan Script', cursive; color: #447ff7" align=center>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Aditya+Kumar+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Software+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+India+%F0%9F%87%AE%F0%9F%87%B3;I+have+3%2B+years+of+experience+%F0%9F%93%88;In+building+backend+infrastructures+%E2%9A%99%EF%B8%8F" alt="Aditya Kumar" width="650" height="55">
