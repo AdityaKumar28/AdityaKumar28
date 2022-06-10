@@ -3,7 +3,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap" rel="stylesheet">
 
 
-# [![aditya kumar header](https://raw.githubusercontent.com/AdityaKumar28/AdityaKumar28/asset/jpeg/banner.jpeg)](https://waylonwalker.com)
+# [![aditya kumar header](https://raw.githubusercontent.com/AdityaKumar28/AdityaKumar28/asset/jpeg/banner.jpeg)](https://github.com/AdityaKumar28)
 
 
 <div style=" font-size: medium; font-family: 'Kaushan Script', cursive; color: #447ff7" align=center>
