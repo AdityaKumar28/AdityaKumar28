@@ -38,9 +38,9 @@
 
 ### 🔹Databases:
 <p style="padding:10px;"> 
-    <a style="padding-right:15px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a style="padding-right:15px;" href="https://www.mongodb.com/" target="_blank"> <img src="https://scontent.fdel4-1.fna.fbcdn.net/v/t39.30808-6/246656344_10165689418720557_4225476852778908330_n.png?_nc_cat=1&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=XzrX1kk4mk0AX9bv7uS&_nc_ht=scontent.fdel4-1.fna&oh=00_AT-HfpG2R8RSYTSV6NqxSuost2h7xmzN-1IOGVa4H6fUjQ&oe=62A7519D" height=60 width=60 /> </a>
-    <a style="padding-right:15px;" href="https://redis.com/" target="_blank"> <img src="https://redis.com/wp-content/themes/wpx/assets/images/logo-redis.svg?auto=webp&quality=85,75&width=120" height=60 width=105 /> </a>
+    <a style="padding:15px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a style="padding:15px;" href="https://www.mongodb.com/" target="_blank"> <img src="https://scontent.fdel4-1.fna.fbcdn.net/v/t39.30808-6/246656344_10165689418720557_4225476852778908330_n.png?_nc_cat=1&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=XzrX1kk4mk0AX9bv7uS&_nc_ht=scontent.fdel4-1.fna&oh=00_AT-HfpG2R8RSYTSV6NqxSuost2h7xmzN-1IOGVa4H6fUjQ&oe=62A7519D" height=60 width=60 /> </a>
+    <a style="padding:15px;" href="https://redis.com/" target="_blank"> <img src="https://redis.com/wp-content/themes/wpx/assets/images/logo-redis.svg?auto=webp&quality=85,75&width=120" height=60 width=105 /> </a>
 </p>
 
 ### 🔹Messaging Queues:
