@@ -30,7 +30,7 @@
       <img src="https://spring.io/images/projects/spring-security-b712a4cdb778e72eb28b8c55ec39dbd1.svg" height=40 width=50 /> 
     </a>
     <a href="https://spring.io/projects/spring-cloud" target="_blank"> 
-      <img src="	https://spring.io/images/projects/spring-cloud-81fe04ab129ab99da0e7c7115bb09920.svg" height=40 width=50 /> 
+      <img src="https://spring.io/images/projects/spring-cloud-81fe04ab129ab99da0e7c7115bb09920.svg" height=40 width=50 /> 
     </a>
 </p>
 
