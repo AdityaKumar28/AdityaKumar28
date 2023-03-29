@@ -1,82 +1,29 @@
-
-<p align="center"><img src="animation.gif" width="35%"></p>
-<div style=" font-size: medium; color: #447ff7" align=center>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Aditya+Kumar+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Software+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+India+%F0%9F%87%AE%F0%9F%87%B3;I+have+3%2B+years+of+experience+%F0%9F%93%88;In+building+backend+infrastructures+%E2%9A%99%EF%B8%8F" alt="Aditya Kumar" width="650" height="55">
-
-<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+<p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+
+# 💫 About Me:
+As a backend developer with four years of experience, I've honed my skills in designing and building the server-side of applications that power the web. <br>My proficiency in Java has allowed me to develop robust and scalable systems that efficiently handle large volumes of data and traffic.<br><br>Throughout my career, I've gained expertise in database management, RESTful API design, and cloud technologies such as AWS or Azure.<br>My deep understanding of software architecture principles has enabled me to create well-structured and maintainable codebases.<br>I take pride in my ability to work collaboratively with other members of a development team and to effectively communicate complex technical concepts to non-technical stakeholders.<br><br><br><br>
+![center](https://komarev.com/ghpvc/?username=adityakumar28&color=447ff7&label=Visitor+count)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
 <br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 🔥 Skills 🔥
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AdityaKumar28&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaKumar28&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaKumar28&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
-### 🔹Backend Languages:ㅤㅤㅤㅤㅤㅤㅤ
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p style="padding:10px;">
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-</p>
-
-### 🔹Backend framework and libraries:ㅤ
-<p style="padding:10px;">
-    <a href="https://spring.io/projects/spring-framework" target="_blank"> 
-      <img src="https://spring.io/images/projects/spring-framework-640ad1b04f7efa89e0f0f7353e6b5e02.svg?v=2" height=40 width=50 /> 
-    </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> 
-      <img src="https://spring.io/images/projects/spring-boot-7f2e24fb962501672cc91ccd285ed2ba.svg" height=40 width=50 /> 
-    </a>
-    <a href="https://spring.io/projects/spring-data" target="_blank"> 
-      <img src="https://spring.io/images/projects/spring-data-79cc203ed8c54191215a60f9e5dc638f.svg" height=40 width=50 />
-    </a>
-    <a href="https://spring.io/projects/spring-security" target="_blank"> 
-      <img src="https://spring.io/images/projects/spring-security-b712a4cdb778e72eb28b8c55ec39dbd1.svg" height=40 width=50 /> 
-    </a>
-    <a href="https://spring.io/projects/spring-cloud" target="_blank"> 
-      <img src="https://spring.io/images/projects/spring-cloud-81fe04ab129ab99da0e7c7115bb09920.svg" height=40 width=50 /> 
-    </a>
-</p>
-
-### 🔹Databases:ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-<p style="padding:10px;"> 
-    <a style="padding:15px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a style="padding:15px;" href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/452/mongodb.png" height=60 width=60 /> </a>
-    <a style="padding:15px;" href="https://redis.com/" target="_blank"> <img src="https://redis.com/wp-content/themes/wpx/assets/images/logo-redis.svg?auto=webp&quality=85,75&width=120" height=60 width=105 /> </a>
-</p>
-
-### 🔹Messaging Queues:ㅤㅤㅤㅤㅤㅤㅤㅤ
-<p style="padding:10px;"> 
-    <a style="padding-right:8px;" href="https://kafka.apache.org" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstawarczyk.pl%2Fwp-content%2Fuploads%2F2020%2F06%2Fkafka.png&f=1&nofb=1" height=65 width=50 /> </a>
-    <a style="padding-right:8px;" href="https://cloud.google.com/pubsub/docs/overview" target="_blank"> <img src="https://iconape.com/wp-content/png_logo_vector/google-cloud-pub-sub-logo.png" height=60 width=60 /> </a>
-    <a style="padding-right:8px;" href="https://www.rabbitmq.com" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/rabbitmq-282296.png" height=60 width=60 /> </a>
-    <a style="padding-right:8px;" href="https://aws.amazon.com/sqs/" target="_blank"> <img src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/App_Services_copy_Amazon_SQS-512.png" height=65 width=70 /> </a>
-</p>
-
-### 🔹Architectural Styles:ㅤㅤㅤㅤㅤㅤㅤㅤ
-<p style="padding:10px;"> 
-    <a style="padding-right:8px;" href="https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design" target="_blank"> <img src="https://icon-library.com/images/rest-api-icon/rest-api-icon-8.jpg" height=65 width=70 /> </a>
-    <a style="padding-right:8px;" href="https://grpc.io/" target="_blank"> <img src="https://cncf-branding.netlify.app/img/projects/grpc/horizontal/white/grpc-horizontal-white.png" height=60 width=140 /> </a>
-</p>
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br>
-
-# 📈 Statistics 📈
-![](https://komarev.com/ghpvc/?username=adityakumar28&color=447ff7&label=Visitor+count)
-
-<p align="center">
-  <a href="https://github.com/AdityaKumar28">
-    <img src="https://github-readme-stats.vercel.app/api?username=AdityaKumar28&show_icons=true&theme=github_dark&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKumar28&theme=github-dark-blue&hide_border=true" />
-    <img src="https://activity-graph.herokuapp.com/graph?username=AdityaKumar28&theme=react-dark" />
-</a>
-</p>
-
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
 
-</div>
